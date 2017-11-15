@@ -1,2 +1,2 @@
-# Training project
-JavaScript exercise: simple yet sleek clock (HTML5 canvas)
+# JavaScript exercise
+HTML5 <canvas>. Simple yet stylish clock.
